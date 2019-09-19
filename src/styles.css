@@ -1,6 +1,6 @@
 :root {
     --white: #fff;
-    --red: #e21838;
+    --blue: #659dbd;
 }
 
 * {
@@ -56,8 +56,8 @@ button {
     color: var(--white);
 }
 
-.bg-r {
-    background: var(--red);
+.bg-b {
+    background: var(--blue);
 }
 
 body {
@@ -71,7 +71,7 @@ body {
 
 .header {
     padding: 20px;
-    border-bottom: 1px solid #e93451;
+    border-bottom: 1px solid #fbeec1;
 }
 
 .header li:not(:last-child) {
